@@ -1,0 +1,4 @@
+# Intellij local files
+.idea
+*.iml
+target
